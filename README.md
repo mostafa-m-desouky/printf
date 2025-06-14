@@ -322,9 +322,9 @@ Function That Returns The Amount Of Indetifiers.
 ------------
 
 ## Authors
-Mostafa Magdy <[aysuarex@gmail.com](https://github.com/mostafa-m-desouky)>
+Mostafa Magdy <(https://github.com/mostafa-m-desouky)>
 
-Ola Mamdouh <[oni.jremi@gmail.com](https://github.com/1Olamamdouh)>
+Ola Mamdouh <(https://github.com/1Olamamdouh)>
 
 ------------
 
